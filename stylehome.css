@@ -1,0 +1,20 @@
+.header{
+    padding: 20PX;
+    text-align: center;
+    background-color: aqua;
+
+
+}
+.card-body{
+    position: relative;
+    width: 320px;
+    display: block;
+    text-align: center;
+
+}
+.card{
+    position: relative;
+    width: 320px;
+    display: block;
+    text-align: center;
+}
